@@ -92,7 +92,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/irarelycode-dev" target="_blank">
+<a href="https://github.com/VigneshP1505" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vigneshpugaz/" target="_blank">
