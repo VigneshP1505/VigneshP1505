@@ -3,13 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm vignesh pugazhendhi</div>  
+### <div align="left">I'm vignesh pugazhendhi</div>  
   
-
-- I'm a full stack software engineer based out of Canada  
+### I'm a full stack software engineer based out of Canada  
   
-
-- I'm currently a software engineer @RemitBee, Mississauga   
+### I'm currently a software engineer @RemitBee, Mississauga   
   
 
 <br/>  
