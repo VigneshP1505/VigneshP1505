@@ -1,3 +1,20 @@
+<div style="display:inline-flex;">
+  <div> <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200"/></div>
+</div>
+
+
+
+- 👋 Hellooo fellow developer!
+- 👀 I'm a fullstack web and mobile developer
+- 🌱 I’m currently a graduate student of masters in applied computer science at Concordia university
+- 💞️ I’m looking to collaborate on open source MEAN/MERN/Spring MVC/Springboot/Cross-platform (react-native) mobile projects
+- 📫 How to reach me <a href="https://www.linkedin.com/in/vignesh-pugazhendhi-874415179/"><img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
+
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
