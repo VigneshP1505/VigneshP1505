@@ -5,9 +5,7 @@
 
 
 - 👋 Hellooo fellow developer!
-- 👀 I'm a fullstack web and mobile developer
-- 🌱 I’m currently a graduate student of masters in applied computer science at Concordia university
-- 💞️ I’m looking to collaborate on open source MEAN/MERN/Spring MVC/Springboot/Cross-platform (react-native) mobile projects
+- 👀 I'm a backend developer, working on a mental health care SaaS product @KeelMind, Toronto
 - 📫 How to reach me <a href="https://www.linkedin.com/in/vignesh-pugazhendhi-874415179/"><img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
 
 <div id="header" align="center">
